@@ -1,0 +1,6 @@
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Interfaces.Core\bin\Debug\StrategyCorps.CodeSample.Interfaces.Core.dll
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Interfaces.Core\bin\Debug\StrategyCorps.CodeSample.Interfaces.Core.pdb
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Interfaces.Core\bin\Debug\StructureMap.dll
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Interfaces.Core\bin\Debug\StructureMap.xml
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Interfaces.Core\obj\Debug\StrategyCorps.CodeSample.Interfaces.Core.dll
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Interfaces.Core\obj\Debug\StrategyCorps.CodeSample.Interfaces.Core.pdb

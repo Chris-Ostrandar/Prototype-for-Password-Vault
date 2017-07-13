@@ -1,0 +1,4 @@
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Interfaces.Repositories\bin\Debug\StrategyCorps.CodeSample.Interfaces.Repositories.dll
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Interfaces.Repositories\bin\Debug\StrategyCorps.CodeSample.Interfaces.Repositories.pdb
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Interfaces.Repositories\obj\Debug\StrategyCorps.CodeSample.Interfaces.Repositories.dll
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Interfaces.Repositories\obj\Debug\StrategyCorps.CodeSample.Interfaces.Repositories.pdb

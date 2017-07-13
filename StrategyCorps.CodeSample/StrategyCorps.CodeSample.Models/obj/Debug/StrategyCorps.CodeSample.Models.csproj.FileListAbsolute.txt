@@ -1,0 +1,4 @@
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Models\bin\Debug\StrategyCorps.CodeSample.Models.dll
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Models\bin\Debug\StrategyCorps.CodeSample.Models.pdb
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Models\obj\Debug\StrategyCorps.CodeSample.Models.dll
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Models\obj\Debug\StrategyCorps.CodeSample.Models.pdb

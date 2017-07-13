@@ -1,0 +1,12 @@
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Core\bin\Debug\StrategyCorps.CodeSample.Core.dll
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Core\bin\Debug\StrategyCorps.CodeSample.Core.pdb
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Core\bin\Debug\StrategyCorps.CodeSample.Interfaces.Core.dll
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Core\bin\Debug\StructureMap.dll
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Core\bin\Debug\StructureMap.Web.dll
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Core\bin\Debug\StrategyCorps.CodeSample.Interfaces.Core.pdb
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Core\bin\Debug\StructureMap.xml
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Core\bin\Debug\StructureMap.Web.pdb
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Core\bin\Debug\StructureMap.Web.xml
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Core\obj\Debug\StrategyCorps.CodeSample.Core.csprojResolveAssemblyReference.cache
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Core\obj\Debug\StrategyCorps.CodeSample.Core.dll
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Core\obj\Debug\StrategyCorps.CodeSample.Core.pdb

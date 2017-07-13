@@ -1,0 +1,7 @@
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Interfaces.Services\bin\Debug\StrategyCorps.CodeSample.Interfaces.Services.dll
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Interfaces.Services\bin\Debug\StrategyCorps.CodeSample.Interfaces.Services.pdb
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Interfaces.Services\bin\Debug\StrategyCorps.CodeSample.Models.dll
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Interfaces.Services\bin\Debug\StrategyCorps.CodeSample.Models.pdb
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Interfaces.Services\obj\Debug\StrategyCorps.CodeSample.Interfaces.Services.csprojResolveAssemblyReference.cache
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Interfaces.Services\obj\Debug\StrategyCorps.CodeSample.Interfaces.Services.dll
+C:\Users\mgray\Source\Repos\StrategyCorps.CodeSample\StrategyCorps.CodeSample.Interfaces.Services\obj\Debug\StrategyCorps.CodeSample.Interfaces.Services.pdb

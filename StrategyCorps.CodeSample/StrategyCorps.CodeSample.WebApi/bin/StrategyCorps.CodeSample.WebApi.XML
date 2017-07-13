@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StrategyCorps.CodeSample.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:StrategyCorps.CodeSample.WebApi.BundleConfig">
+            <summary>
+            BundleConfig
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.BundleConfig.RegisterBundles(System.Web.Optimization.BundleCollection)">
+            <summary>
+            RegisterBundles
+            </summary>
+            <param name="bundles"></param>
+        </member>
+        <member name="T:StrategyCorps.CodeSample.WebApi.FilterConfig">
+            <summary>
+            FilterConfig
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.FilterConfig.RegisterGlobalFilters(System.Web.Mvc.GlobalFilterCollection)">
+            <summary>
+            RegisterGlobalFilters
+            </summary>
+            <param name="filters"></param>
+        </member>
+        <member name="T:StrategyCorps.CodeSample.WebApi.RouteConfig">
+            <summary>
+            RouteConfig
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.RouteConfig.RegisterRoutes(System.Web.Routing.RouteCollection)">
+            <summary>
+            RegisterRoutes
+            </summary>
+            <param name="routes"></param>
+        </member>
+        <member name="T:StrategyCorps.CodeSample.WebApi.StructuremapMvc">
+            <summary>
+            StructuremapMvc
+            </summary>
+        </member>
+        <member name="P:StrategyCorps.CodeSample.WebApi.StructuremapMvc.StructureMapDependencyScope">
+            <summary>
+            StructureMapDependencyScope
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.StructuremapMvc.End">
+            <summary>
+            End
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.StructuremapMvc.Start">
+            <summary>
+            Start
+            </summary>
+        </member>
+        <member name="T:StrategyCorps.CodeSample.WebApi.StructuremapWebApi">
+            <summary>
+            StructuremapWebApi
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.StructuremapWebApi.Start">
+            <summary>
+            Start
+            </summary>
+        </member>
+        <member name="T:StrategyCorps.CodeSample.WebApi.SwaggerConfig">
+            <summary>
+            Swagger Config
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.SwaggerConfig.Register">
+            <summary>
+            Register Swagger Config
+            </summary>
+        </member>
+        <member name="T:StrategyCorps.CodeSample.WebApi.WebApiConfig">
+            <summary>
+            WebApiConfig
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.WebApiConfig.Register(System.Web.Http.HttpConfiguration)">
+            <summary>
+            Register
+            </summary>
+            <param name="config"></param>
+        </member>
+        <member name="T:StrategyCorps.CodeSample.WebApi.Controllers.TelevisionController">
+            <summary>
+            The television controller
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.Controllers.TelevisionController.#ctor(StrategyCorps.CodeSample.Interfaces.Services.ITelevisionService,NLog.ILogger,AutoMapper.IMapper)">
+            <summary>
+            The television controller constructor
+            </summary>
+            <param name="televisionService" cref="T:StrategyCorps.CodeSample.Interfaces.Services.ITelevisionService">The television service</param>
+            <param name="logger" cref="T:NLog.ILogger">The NLog logger</param>
+            <param name="mapper" cref="T:AutoMapper.IMapper">The AutoMapper mapper</param>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.Controllers.TelevisionController.TelevisionSearchByQuery(System.String)">
+            <summary>
+                Get television show
+            </summary>
+            <remarks>
+                Search for any television show
+            </remarks>
+            <param name="query">search query</param>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.Controllers.TelevisionController.SimilarTelevisionShows(System.Int32)">
+            <summary>
+                Get similar television shows
+            </summary>
+            <remarks>
+                Get similar television shows
+            </remarks>
+            <param name="id">Television show id</param>
+        </member>
+        <member name="T:StrategyCorps.CodeSample.WebApi.DependencyResolution.DefaultWebApiRegistry">
+            <summary>
+            DefaultWebApiRegistry
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.DependencyResolution.DefaultWebApiRegistry.#ctor">
+            <summary>
+            DefaultWebApiRegistry
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.DependencyResolution.DefaultWebApiRegistry.ScanTypes(StructureMap.Graph.Scanning.TypeSet,StructureMap.Registry)">
+            <summary>
+            ScanTypes
+            </summary>
+            <param name="types"></param>
+            <param name="registry"></param>
+        </member>
+        <member name="T:StrategyCorps.CodeSample.WebApi.DependencyResolution.IoC">
+            <summary>
+            IoC
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.DependencyResolution.IoC.Initialize">
+            <summary>
+            Initialize
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:StrategyCorps.CodeSample.WebApi.DependencyResolution.StructureMapDependencyScope">
+            <summary>
+            The structure map dependency scope.
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.DependencyResolution.StructureMapDependencyScope.#ctor(StructureMap.IContainer)">
+            <summary>
+            StructureMapDependencyScope
+            </summary>
+            <param name="container"></param>
+            <exception cref="T:System.ArgumentNullException"></exception>
+        </member>
+        <member name="P:StrategyCorps.CodeSample.WebApi.DependencyResolution.StructureMapDependencyScope.Container">
+            <summary>
+            Container
+            </summary>
+        </member>
+        <member name="P:StrategyCorps.CodeSample.WebApi.DependencyResolution.StructureMapDependencyScope.CurrentNestedContainer">
+            <summary>
+            CurrentNestedContainer
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.DependencyResolution.StructureMapDependencyScope.CreateNestedContainer">
+            <summary>
+            CreateNestedContainer
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.DependencyResolution.StructureMapDependencyScope.Dispose">
+            <summary>
+            Dispose
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.DependencyResolution.StructureMapDependencyScope.DisposeNestedContainer">
+            <summary>
+            DisposeNestedContainer
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.DependencyResolution.StructureMapDependencyScope.GetServices(System.Type)">
+            <summary>
+            GetServices
+            </summary>
+            <param name="serviceType"></param>
+            <returns></returns>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.DependencyResolution.StructureMapDependencyScope.DoGetAllInstances(System.Type)">
+            <inheritdoc />
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.DependencyResolution.StructureMapDependencyScope.DoGetInstance(System.Type,System.String)">
+            <inheritdoc />
+        </member>
+        <member name="T:StrategyCorps.CodeSample.WebApi.DependencyResolution.StructureMapScopeModule">
+            <summary>
+            StructureMapScopeModule
+            </summary>
+        </member>
+        <member name="T:StrategyCorps.CodeSample.WebApi.DependencyResolution.StructureMapWebApiDependencyResolver">
+            <summary>
+            The structure map dependency resolver.
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.DependencyResolution.StructureMapWebApiDependencyResolver.#ctor(StructureMap.IContainer)">
+            <summary>
+            Initializes a new instance of the <see cref="T:StrategyCorps.CodeSample.WebApi.DependencyResolution.StructureMapWebApiDependencyResolver"/> class.
+            </summary>
+            <param name="container">
+            The container.
+            </param>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.DependencyResolution.StructureMapWebApiDependencyResolver.BeginScope">
+            <summary>
+            The begin scope.
+            </summary>
+            <returns>
+            The System.Web.Http.Dependencies.IDependencyScope.
+            </returns>
+        </member>
+        <member name="T:StrategyCorps.CodeSample.WebApi.DependencyResolution.StructureMapWebApiDependencyScope">
+            <summary>
+            The structure map web api dependency scope.
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.DependencyResolution.StructureMapWebApiDependencyScope.#ctor(StructureMap.IContainer)">
+            <summary>
+            StructureMapWebApiDependencyScope
+            </summary>
+            <param name="container"></param>
+        </member>
+        <member name="T:StrategyCorps.CodeSample.WebApi.WebApiApplication">
+            <summary>
+            WebApiApplication
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.WebApiApplication.Application_Start">
+            <summary>
+            Application_Start
+            </summary>
+        </member>
+        <member name="T:StrategyCorps.CodeSample.WebApi.MappingProfiles.DefaultMappingProfile">
+            <summary>
+            The WebApi default mapping profiles
+            </summary>
+        </member>
+        <member name="M:StrategyCorps.CodeSample.WebApi.MappingProfiles.DefaultMappingProfile.#ctor">
+            <summary>
+            The  WebApi default mapping profile constructor
+            </summary>
+        </member>
+        <member name="T:StrategyCorps.CodeSample.WebApi.ViewModels.TelevisionResultViewModel">
+            <summary>
+            TelevisionResultViewModel
+            </summary>
+        </member>
+        <member name="P:StrategyCorps.CodeSample.WebApi.ViewModels.TelevisionResultViewModel.Popularity">
+            <summary>
+            Popularity
+            </summary>
+        </member>
+        <member name="P:StrategyCorps.CodeSample.WebApi.ViewModels.TelevisionResultViewModel.Id">
+            <summary>
+            Id
+            </summary>
+        </member>
+        <member name="P:StrategyCorps.CodeSample.WebApi.ViewModels.TelevisionResultViewModel.VoteAverage">
+            <summary>
+            Vote Average
+            </summary>
+        </member>
+        <member name="P:StrategyCorps.CodeSample.WebApi.ViewModels.TelevisionResultViewModel.Overview">
+            <summary>
+            Overview
+            </summary>
+        </member>
+        <member name="P:StrategyCorps.CodeSample.WebApi.ViewModels.TelevisionResultViewModel.FirstAirDate">
+            <summary>
+            First Air Date
+            </summary>
+        </member>
+        <member name="P:StrategyCorps.CodeSample.WebApi.ViewModels.TelevisionResultViewModel.OriginalLanguage">
+            <summary>
+            Original Language
+            </summary>
+        </member>
+        <member name="P:StrategyCorps.CodeSample.WebApi.ViewModels.TelevisionResultViewModel.VoteCount">
+            <summary>
+            Vote Count
+            </summary>
+        </member>
+        <member name="P:StrategyCorps.CodeSample.WebApi.ViewModels.TelevisionResultViewModel.Name">
+            <summary>
+            Name
+            </summary>
+        </member>
+        <member name="P:StrategyCorps.CodeSample.WebApi.ViewModels.TelevisionResultViewModel.OriginalName">
+            <summary>
+            OriginalName
+            </summary>
+        </member>
+        <member name="T:StrategyCorps.CodeSample.WebApi.ViewModels.TelevisionSearchResponseViewModel">
+            <summary>
+            TelevisionSearchResponseViewModel
+            </summary>
+        </member>
+        <member name="P:StrategyCorps.CodeSample.WebApi.ViewModels.TelevisionSearchResponseViewModel.Results">
+            <summary>
+            Results
+            </summary>
+        </member>
+        <member name="P:StrategyCorps.CodeSample.WebApi.ViewModels.TelevisionSearchResponseViewModel.Page">
+            <summary>
+            Page
+            </summary>
+        </member>
+        <member name="P:StrategyCorps.CodeSample.WebApi.ViewModels.TelevisionSearchResponseViewModel.TotalResults">
+            <summary>
+            Total Results
+            </summary>
+        </member>
+        <member name="P:StrategyCorps.CodeSample.WebApi.ViewModels.TelevisionSearchResponseViewModel.TotalPages">
+            <summary>
+            Total Pages
+            </summary>
+        </member>
+    </members>
+</doc>
